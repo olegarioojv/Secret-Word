@@ -48,7 +48,3 @@ src/
 
 - React
 - CSS3
-
-## 📝 Licença
-
-Projeto livre para uso pessoal e educacional.
